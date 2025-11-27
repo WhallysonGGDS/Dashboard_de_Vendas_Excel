@@ -68,6 +68,8 @@ Criar uma solução totalmente construída no Excel para:
 - Conexão com CSV ou Banco de Dados  
 - Exportação automática de relatórios
 
-## 👤 Autor  
-Criado por **Whallyson Gabriel Garcia da Silva**  
-Analista de Dados apaixonado por transformar números em histórias.
+## 🧑‍💻 Autor
+
+**Whallyson Gabriel Garcia da Silva**  
+Analista de Dados • Brasil  
+GitHub: https://github.com/WhallysonGGDS
